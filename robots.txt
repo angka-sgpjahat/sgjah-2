@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-sgpjahat.github.io/sgjah-2/sitemap.xml
